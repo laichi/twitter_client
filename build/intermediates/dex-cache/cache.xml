@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/laichi/android-twitter-client/app/libs/scribe-codepath.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e0748acc9e7be0695de0d38016d260df52d9167">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/scribe-codepath-5f99b0fe8de3694bbe14bdbf60e9c4e9e0e2aa59.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/gson-2.3-51d1afb7b5a0c1056ab7622c18f1f0eb18d9a5be.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-67c4bf40ff8e0a10619a2e9744db5b6d8db76d2f.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-350515d4aa3c8eb35619051bc1f734267f908169.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-6ead2813e1d98f8c82b0c8042a2df80b573d288a.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/classes-e484f3236a29ce437a69d3be093390262356636c.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/codepath-utils-61757b5424c0c9af10c9de945c6a01dff27deb6a.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-e48f2e1b56b88074d1f4aa3e90e91c4fdc6f1713.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/libs/codepath-oauth-0.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b90f1c3541987f690e2fb854775914cc23266250">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-4ac3c11ae4b1cd6b8a2b6753c4c8abe92212b9cb.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-eeb3d92dd949eaebd35a27d410861b500289686a.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/libs/ActiveAndroid-3.1-adcddac4c58.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e550c03ed8bcfe3b9f97d8c5ce6e8ee305f3beed">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-9b46512175a032e2f094528a2a576fe86b7a040a.jar" />
+    </item>
+    <item
+        jar="/Users/laichi/android-twitter-client/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/classes-9df7fa38b4438e19b3e8924713a63e6a574c1172.jar" />
+    </item>
+
+</items>

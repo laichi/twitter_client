@@ -1,0 +1,12 @@
+/Users/laichi/android-twitter-client/app/build/intermediates/classes/debug
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-67c4bf40ff8e0a10619a2e9744db5b6d8db76d2f.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/codepath-utils-61757b5424c0c9af10c9de945c6a01dff27deb6a.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.3.0-4ac3c11ae4b1cd6b8a2b6753c4c8abe92212b9cb.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-6ead2813e1d98f8c82b0c8042a2df80b573d288a.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-adcddac4c58-9b46512175a032e2f094528a2a576fe86b7a040a.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-350515d4aa3c8eb35619051bc1f734267f908169.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-e48f2e1b56b88074d1f4aa3e90e91c4fdc6f1713.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/gson-2.3-51d1afb7b5a0c1056ab7622c18f1f0eb18d9a5be.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/scribe-codepath-5f99b0fe8de3694bbe14bdbf60e9c4e9e0e2aa59.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/classes-9df7fa38b4438e19b3e8924713a63e6a574c1172.jar
+/Users/laichi/android-twitter-client/app/build/intermediates/pre-dexed/debug/classes-e484f3236a29ce437a69d3be093390262356636c.jar
